@@ -1,26 +1,26 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="intro_data" version="1.3.0" audacityversion="2.0.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="70.5073545086" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milisegundos">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="intro_data" version="1.3.0" audacityversion="2.0.6" sel0="32.1083222591" sel1="32.1083222591" vpos="1280" h="0.0000000000" zoom="6.0731918169" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milisegundos">
 	<tags>
-		<tag name="GENRE" value="Sound Clip"/>
-		<tag name="compatible_brands" value="isommp42"/>
-		<tag name="ALBUM" value="Proyecto de Audio y Video"/>
-		<tag name="TRACKNUMBER" value="1"/>
-		<tag name="major_brand" value="mp42"/>
-		<tag name="TITLE" value="Introduccion"/>
-		<tag name="YEAR" value="2016"/>
 		<tag name="COMMENTS" value="Introduccion del proyecto"/>
-		<tag name="Software" value="Lavf53.32.100"/>
+		<tag name="GENRE" value="Sound Clip"/>
 		<tag name="ARTIST" value="Adrian Pinargote - Jose Velez "/>
+		<tag name="Software" value="Lavf53.32.100"/>
+		<tag name="TRACKNUMBER" value="1"/>
+		<tag name="TITLE" value="Introduccion"/>
+		<tag name="major_brand" value="mp42"/>
 		<tag name="Encoding time" value="2014-06-08 16:09:17"/>
+		<tag name="ALBUM" value="Proyecto de Audio y Video"/>
+		<tag name="compatible_brands" value="isommp42"/>
 		<tag name="minor_version" value="0"/>
+		<tag name="YEAR" value="2016"/>
 	</tags>
 	<import filename="introduccion.ogg" offset="0.00000000" mute="0" solo="0" height="150" minimized="0" gain="0.794328" pan="0.3"/>
-	<import filename="fondo_intro-1.ogg" offset="0.00000000" mute="0" solo="0" height="150" minimized="1" gain="0.398107" pan="0.0"/>
-	<import filename="fondo_jabali.ogg" offset="37.53369049" mute="0" solo="0" height="143" minimized="1" gain="0.141254" pan="0.5"/>
-	<import filename="fondo_grito_mama.ogg" offset="44.90303405" mute="0" solo="0" height="150" minimized="1" gain="0.281838" pan="0.3"/>
-	<import filename="fondo_llantas_patinando.ogg" offset="47.90494476" mute="0" solo="0" height="150" minimized="1" gain="1.0" pan="-0.7"/>
-	<import filename="fondo_intro_2.ogg" offset="56.45666590" mute="0" solo="0" height="83" minimized="1" gain="1.0" pan="-0.6"/>
-	<import filename="fondo_acidente.ogg" offset="66.60288616" mute="0" solo="0" height="87" minimized="1" gain="1.0" pan="0.2"/>
-	<import filename="fondo_intro_3.ogg" offset="30.18124868" mute="0" solo="0" height="150" minimized="1" gain="0.063096" pan="0.0"/>
+	<import filename="fondo_intro_1.ogg" offset="0.00000000" mute="0" solo="0" height="150" minimized="0" gain="0.398107" pan="0.0"/>
+	<import filename="fondo_jabali.ogg" offset="37.53369049" mute="0" solo="0" height="143" minimized="0" gain="0.141254" pan="0.5"/>
+	<import filename="fondo_grito_mama.ogg" offset="44.90303405" mute="0" solo="0" height="150" minimized="0" gain="0.281838" pan="0.3"/>
+	<import filename="fondo_llantas_patinando.ogg" offset="47.90494476" mute="0" solo="0" height="150" minimized="0" gain="1.0" pan="-0.7"/>
+	<import filename="fondo_intro_2.ogg" offset="56.45666590" mute="0" solo="0" height="83" minimized="0" gain="1.0" pan="-0.6"/>
+	<import filename="fondo_accidente.ogg" offset="66.60288616" mute="0" solo="0" height="87" minimized="0" gain="1.0" pan="0.2"/>
+	<import filename="fondo_intro_3.ogg" offset="30.18124868" mute="0" solo="0" height="150" minimized="0" gain="0.063096" pan="0.0"/>
 </project>
