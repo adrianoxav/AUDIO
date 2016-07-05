@@ -1,23 +1,23 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="intro_data" version="1.3.0" audacityversion="2.1.0" sel0="32.1083222591" sel1="32.1083222591" vpos="1664" h="0.0000000000" zoom="15.6988743311" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="intro_data" version="1.3.0" audacityversion="2.0.6" sel0="44.9030340500" sel1="44.9030340500" vpos="0" h="24.4603525005" zoom="15.6988743311" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milisegundos">
 	<tags>
+		<tag name="COMMENTS" value="Introduccion del proyecto"/>
 		<tag name="GENRE" value="Sound Clip"/>
 		<tag name="ARTIST" value="Adrian Pinargote - Jose Velez "/>
-		<tag name="TRACKNUMBER" value="1"/>
-		<tag name="major_brand" value="mp42"/>
-		<tag name="TITLE" value="Introduccion"/>
-		<tag name="YEAR" value="2016"/>
-		<tag name="Encoding time" value="2014-06-08 16:09:17"/>
 		<tag name="Software" value="Lavf53.32.100"/>
+		<tag name="TRACKNUMBER" value="1"/>
+		<tag name="TITLE" value="Introduccion"/>
+		<tag name="major_brand" value="mp42"/>
+		<tag name="Encoding time" value="2014-06-08 16:09:17"/>
 		<tag name="ALBUM" value="Proyecto de Audio y Video"/>
-		<tag name="COMMENTS" value="Introduccion del proyecto"/>
 		<tag name="compatible_brands" value="isommp42"/>
 		<tag name="minor_version" value="0"/>
+		<tag name="YEAR" value="2016"/>
 	</tags>
-	<wavetrack name="introduccion" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="0.794328" pan="0.3">
+	<wavetrack name="introduccion" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="0.794328" pan="0.3">
 		<waveclip offset="0.00000000">
-			<sequence maxsamples="524288" sampleformat="131073" numsamples="3237515">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="3234457">
 				<waveblock start="0">
 					<simpleblockfile filename="e000002e.au" len="524288" min="-0.419739" max="0.375641" rms="0.062492"/>
 				</waveblock>
@@ -34,18 +34,18 @@
 					<simpleblockfile filename="e0000783.au" len="524288" min="-0.527161" max="0.515717" rms="0.070275"/>
 				</waveblock>
 				<waveblock start="2621440">
-					<simpleblockfile filename="e0000d3d.au" len="524288" min="-0.400421" max="0.306702" rms="0.058026"/>
+					<simpleblockfile filename="e0000f28.au" len="521230" min="-0.400421" max="0.306702" rms="0.058024"/>
 				</waveblock>
-				<waveblock start="3145728">
+				<waveblock start="3142670">
 					<simpleblockfile filename="e000044c.au" len="91787" min="-0.320129" max="0.229828" rms="0.026293"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="introduccion" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="0.794328" pan="0.3">
+	<wavetrack name="introduccion" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="0.794328" pan="0.3">
 		<waveclip offset="0.00000000">
-			<sequence maxsamples="524288" sampleformat="131073" numsamples="3237515">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="3234457">
 				<waveblock start="0">
 					<simpleblockfile filename="e00009f2.au" len="524288" min="-0.419739" max="0.375641" rms="0.06249"/>
 				</waveblock>
@@ -62,9 +62,9 @@
 					<simpleblockfile filename="e00004b1.au" len="524288" min="-0.527161" max="0.515717" rms="0.070276"/>
 				</waveblock>
 				<waveblock start="2621440">
-					<simpleblockfile filename="e0000408.au" len="524288" min="-0.400421" max="0.306702" rms="0.058029"/>
+					<simpleblockfile filename="e00001b5.au" len="521230" min="-0.400421" max="0.306702" rms="0.058027"/>
 				</waveblock>
-				<waveblock start="3145728">
+				<waveblock start="3142670">
 					<simpleblockfile filename="e0000bb5.au" len="91787" min="-0.320129" max="0.229828" rms="0.026293"/>
 				</waveblock>
 			</sequence>
@@ -215,7 +215,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="fondo_intro_3" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="0.063096" pan="0.0">
+	<wavetrack name="fondo_intro_3" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="0.063096" pan="0.0">
 		<waveclip offset="30.18124868">
 			<sequence maxsamples="524288" sampleformat="131073" numsamples="1297884">
 				<waveblock start="0">
@@ -231,7 +231,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="fondo_intro_3" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="0.063096" pan="0.0">
+	<wavetrack name="fondo_intro_3" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="0.063096" pan="0.0">
 		<waveclip offset="30.18124868">
 			<sequence maxsamples="524288" sampleformat="131073" numsamples="1297884">
 				<waveblock start="0">
